@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Ankit Kumar 👋</h1>
 
 <p align="center">
-  Full-stack developer building clean, responsive web applications.
+  AI & Agentic Development · Full-stack Web Applications · Workflow Automation
 </p>
 
 <p align="center">
@@ -9,13 +9,14 @@
   <a href="https://github.com/iankit-sachan?tab=repositories">View my projects</a>
 </p>
 
-## About me
+## What I build
 
-I build practical web products with **React, TypeScript, Tailwind CSS, and Python**. I enjoy turning ideas into polished, accessible experiences that work smoothly across devices.
+I build **AI-powered web applications** and **agentic workflows** that combine thoughtful user experiences with practical automation. My foundation is full-stack development with React, TypeScript, Tailwind CSS, and Python.
 
-- 🌱 Currently focused on modern dashboard and portfolio experiences
-- 💬 Interested in frontend engineering, UI/UX, and full-stack web development
-- 🤝 Open to learning, collaboration, and new opportunities
+- 🤖 Exploring LLM-powered products, multi-step agent workflows, and automation
+- 🧩 Interested in developer tools, AI integrations, and clean system design
+- 🚀 Building responsive dashboards, portfolio tools, and product experiences
+- 🤝 Open to collaboration, learning, and AI-focused opportunities
 
 ## Featured projects
 
@@ -28,10 +29,14 @@ I build practical web products with **React, TypeScript, Tailwind CSS, and Pytho
 - [**Portfolio Generator**](https://github.com/iankit-sachan/dynamic-portfolio-generator) — A multi-template portfolio builder with customisation, previews, and local data persistence.  
   *React · TypeScript · Tailwind CSS*
 
-## Tech I work with
+## Focus areas
+
+`Agentic AI` · `AI Application Development` · `LLM Workflows` · `Automation` · `Frontend Engineering` · `Product UI/UX`
+
+## Core toolkit
 
 `React` · `TypeScript` · `Tailwind CSS` · `JavaScript` · `Python` · `Supabase` · `Git`
 
 ---
 
-<p align="center">Thanks for visiting — feel free to connect with me on <a href="https://www.linkedin.com/in/ankit-sachan-a6860b1b1">LinkedIn</a>.</p>
+<p align="center">Building useful AI experiences, one workflow at a time.</p>
